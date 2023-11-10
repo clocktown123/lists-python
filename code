@@ -1,0 +1,7 @@
+myStuff = ["Arsenal", 14, "capybara", 5.2, True] # a list in python
+print(myStuff[0]) # prints arsenal
+print(myStuff[4]) # prints True
+myStuff[2] = "Banana" # changes capybara to banana
+myStuff.append("brownies") # adds brownies to the end of our list
+print(myStuff) #prints the whole list
+print(len(myStuff)) # prints the size of our list (len stands for length)
